@@ -8,7 +8,8 @@ public class VarshaTest {
 
 	public static void main(String[] args) {
 		List<String> l1 = new ArrayList<String>(Arrays.asList("AJAY","Biju","Chirag","Deepak"));
-		List<String123> l2 = new ArrayList<String>();
+		List<String13> l2 = new ArrayList<String>();
+		List<String456> l2 = new ArrayList<String>();
 
 		
 		String name = "DBCA";
