@@ -7,7 +7,7 @@ import java.util.*;
 public class VarshaTest {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		
 		List<String> l1 = new ArrayList<String>(Arrays.asList("AJAY","Biju","Chirag","Deepak"));
 		List<String> l2 = new ArrayList<String>();
